@@ -1,5 +1,6 @@
 require 'pry'
 
+# Just pass it
 class Song
   attr_accessor :name
   attr_reader :artist

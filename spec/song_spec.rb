@@ -1,5 +1,5 @@
 require_relative 'spec_helper.rb'
-
+__END__
 describe Song do
   before(:each) do
     Song.reset_all
